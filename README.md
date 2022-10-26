@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SerDegen
-- 👀 I’m interested in Blockchain Development
-- 🌱 I’m currently learning Javascript and Python
+- 👋 Hi, I’m Babatunde
+- 👀 I’m interested in Backend and Mobile Development
+- 🌱 I’m currently learning C# and Bash Script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
